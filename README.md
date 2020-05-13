@@ -1,6 +1,6 @@
 theme: Jekill-theme-cayman
 title: Benvindos a Home do Maroto
-descrição: Aprendendo alidar com o GitHub
+descrição: Aprendendo a lidar com o GitHub
 
 You can use the [editor on GitHub](https://github.com/pinheiro99/maroto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
